@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1090341480729",
+    "firebase_url": "https://chatcomunity-27f38-default-rtdb.firebaseio.com",
+    "project_id": "chatcomunity-27f38",
+    "storage_bucket": "chatcomunity-27f38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090341480729:android:2098a7a9143962892e7d88",
+        "android_client_info": {
+          "package_name": "com.bishal.chatcomunity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090341480729-b252nvsossepn9u6egdotvn00a6obkqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrY6HwWKrlD_X4JZImF3ayf-NVVqY30yI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090341480729-b252nvsossepn9u6egdotvn00a6obkqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
